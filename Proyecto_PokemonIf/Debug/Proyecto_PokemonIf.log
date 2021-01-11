@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Tem\Documents\Leo Trabajos Uni\Primer Semestre\Fundamentos de la Programación\Proyecto_PokemonIf\Source.cpp(1573,4): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\Tem\Documents\Leo Trabajos Uni\Primer Semestre\Fundamentos de la Programación\Proyecto_PokemonIf\Source.cpp(15,67): warning C4101: 'mov8': variable local sin referencia
+C:\Users\Tem\Documents\Leo Trabajos Uni\Primer Semestre\Fundamentos de la Programación\Proyecto_PokemonIf\Source.cpp(15,73): warning C4101: 'mov9': variable local sin referencia
+C:\Users\Tem\Documents\Leo Trabajos Uni\Primer Semestre\Fundamentos de la Programación\Proyecto_PokemonIf\Source.cpp(15,79): warning C4101: 'mov10': variable local sin referencia
+  Proyecto_PokemonIf.vcxproj -> C:\Users\Tem\Documents\Leo Trabajos Uni\Primer Semestre\Fundamentos de la Programación\Proyecto_PokemonIf\Debug\Proyecto_PokemonIf.exe
