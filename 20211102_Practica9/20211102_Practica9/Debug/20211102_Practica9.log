@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Tem\Documents\Leo Trabajos Uni\Primer Semestre\Fundamentos de la Programación\Prácticas Progra\20211102_Practica9\20211102_Practica9\Source.cpp(45,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  20211102_Practica9.vcxproj -> C:\Users\Tem\Documents\Leo Trabajos Uni\Primer Semestre\Fundamentos de la Programación\Prácticas Progra\20211102_Practica9\Debug\20211102_Practica9.exe
