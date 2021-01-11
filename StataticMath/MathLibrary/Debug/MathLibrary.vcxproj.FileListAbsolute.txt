@@ -1,0 +1,2 @@
+C:\Users\Tem\Documents\Leo Trabajos Uni\Primer Semestre\Fundamentos de la Programación\Prácticas Progra\StataticMath\Debug\MathLibrary.pdb
+C:\Users\Tem\Documents\Leo Trabajos Uni\Primer Semestre\Fundamentos de la Programación\Prácticas Progra\StataticMath\MathLibrary\Debug\MathLibrary.pdb
