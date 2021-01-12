@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Tem\Documents\Leo Trabajos Uni\Primer Semestre\Fundamentos de la Programación\Historia\HistoriaNarradaEnConsola\Source.cpp(18,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Tem\Documents\Leo Trabajos Uni\Primer Semestre\Fundamentos de la Programación\Historia\HistoriaNarradaEnConsola\Source.cpp(39,3): warning C4551: la llamada a la función no tiene lista de argumentos
+  HistoriaNarradaEnConsola.vcxproj -> C:\Users\Tem\Documents\Leo Trabajos Uni\Primer Semestre\Fundamentos de la Programación\Historia\HistoriaNarradaEnConsola\Debug\HistoriaNarradaEnConsola.exe
